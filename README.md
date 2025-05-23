@@ -1,10 +1,5 @@
 # 👋 Hola, soy Caled Contreras R. | Full-Stack Developer [![Visitas](https://komarev.com/ghpvc/?username=calmahDev&style=flat-square&color=blue)](https://github.com/calmahDev)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=calmahDev&show_icons=true&theme=dark" alt="Estadísticas GitHub"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=calmahDev&theme=dark" alt="Racha GitHub"/>
-</p>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caled-contreras-r-234753258/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/calmahDev)
 
@@ -57,6 +52,12 @@ Backend escalable para plataforma de comercio electrónico
 Sitio web personal con proyectos y habilidades
 - **Tecnologías**: React, CSS Modules, EmailJS
 - **Destacado**: Diseño responsive, Integración con LinkedIn:cite[2]:cite[9]
+
+## 📈 Estadísticas GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=calmahDev&show_icons=true&theme=dark" alt="Estadísticas GitHub"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=calmahDev&theme=dark" alt="Racha GitHub"/>
+</p>
 
 ## 🌟 Principales Contribuciones
 - Optimización de rendimiento en API REST (Reducción de latency en 40%):cite[1]
