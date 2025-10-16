@@ -6,10 +6,10 @@
 ## 🚀 Sobre Mí
 Desarrollador Full-Stack con experiencia en construcción de aplicaciones web escalables. Apasionado por implementar soluciones tecnológicas innovadoras y optimizar procesos mediante el código.
 
-- 💻 Tecnologías principales: **JavaScript, React, Node.js, Python**
-- 🌱 Actualmente aprendiendo: **AWS Cloud Practitioner**
+- 💻 Tecnologías principales: **JavaScript, React, Node.js, Python,java**
+- 🌱 Actualmente aprendiendo: **n8n automation**
 - � Habilidades blandas: **Liderazgo técnico, Trabajo en equipo, Resolución de problemas**
-- 📫 Contacto: **caled.contreras@gmail.com**
+- 📫 Contacto: **caledmahatmacontrerasramos@gmail.com**
 
 ## 🛠 Stack Tecnológico
 
@@ -21,6 +21,8 @@ Desarrollador Full-Stack con experiencia en construcción de aplicaciones web es
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
 
 ### Bases de Datos
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -31,50 +33,31 @@ Desarrollador Full-Stack con experiencia en construcción de aplicaciones web es
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## 📚 Certificaciones
-- **AWS Cloud Practitioner** (En progreso) :cite[9]
-- **React Fundamentals** - LinkedIn Learning :cite[5]:cite[9]
-- **JavaScript Algorithms and Data Structures** - freeCodeCamp
+## 🎓 Certificaciones y Formaciones
 
-## 🔥 Proyectos Destacados
+### 🧠 Oracle Next Education (ONE) — Alura Latam (2024)
+- 🤖 **Formación en Inteligencia Artificial Generativa**  
+- ☕ **Formación Java Web con Spring Boot**  
+- 🧩 **Formación Java Orientado a Objetos**  
+- 🚀 **Emprendimiento, Agilidad y Protagonismo Profesional**  
+- 💡 **Lógica de Programación con JavaScript**
 
-### [Sistema de Gestión de Inventarios](https://github.com/calmahDev/inventory-management)
-Plataforma full-stack para control de stock y gestión logística
-- **Tecnologías**: React, Node.js, Express, MongoDB
-- **Features**: Autenticación JWT, Dashboard analítico, CRUD completo
+---
 
-### [API REST para E-Commerce](https://github.com/calmahDev/ecommerce-api)
-Backend escalable para plataforma de comercio electrónico
-- **Stack**: Node.js, Express, MySQL, Swagger
-- **Características**: Documentación API, Sistema de pagos integrado, Cache con Redis
+### 🌐 Cisco Networking Academy (2022 – 2025)
+- 🔌 **Get Connected**  
+- 🌍 **Introducción a Internet of Things (IoT)**  
+- 🐧 **NDG Linux Essentials**
 
-### [Portafolio Profesional](https://github.com/calmahDev/portfolio)
-Sitio web personal con proyectos y habilidades
-- **Tecnologías**: React, CSS Modules, EmailJS
-- **Destacado**: Diseño responsive, Integración con LinkedIn:cite[2]:cite[9]
+---
+
+### 🧾 Certificaciones Complementarias
+- ✍️ **Markdown desde cero** — *EDteam* (2023)  
+- 💼 **Ofimática Avanzada** — *Universidad Nacional de Educación Enrique Guzmán y Valle* (2022 – 2026)  
+- 🧰 **Gestión de Herramientas Virtuales** — *Universidad Nacional de Educación Enrique Guzmán y Valle* (2021 – 2026)
 
 ## 📈 Estadísticas GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=calmahDev&show_icons=true&theme=dark" alt="Estadísticas GitHub"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=calmahDev&theme=dark" alt="Racha GitHub"/>
-</p>
-
-## 🌟 Principales Contribuciones
-- Optimización de rendimiento en API REST (Reducción de latency en 40%):cite[1]
-- Implementación de arquitectura microservicios para aplicación de inventarios
-- Migración exitosa de base de datos SQL a NoSQL:cite[4]
-
-## 📚 Últimos Aprendizajes
-- **Patrones de Diseño de Software** - LinkedIn Learning:cite[5]
-- **Arquitectura Cloud AWS** - Platzi
-- **GraphQL Avanzado** - Documentación oficial:cite[7]
-
-## 🤝 Colaboraciones
-Abierto a:
-- Proyectos innovadores en FinTech y HealthTech
-- Mentorías para nuevos desarrolladores
-- Contribuciones a proyectos open source
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/calmahdev"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
 </p>
